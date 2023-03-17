@@ -1,4 +1,6 @@
 // Package util 是我乱写的一个例子包
+//
+// 这个包里有一些我常用的环境变量工具啥的
 package util
 
 import "os"
